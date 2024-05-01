@@ -54,4 +54,5 @@ You can reach me via:
 
 Let's connect and collaborate on exciting projects!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Znull-1220&left_color=green&right_color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=Znull-1220)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220&layout=compact)
