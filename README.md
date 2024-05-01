@@ -55,4 +55,7 @@ You can reach me via:
 Let's connect and collaborate on exciting projects!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Znull-1220)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
