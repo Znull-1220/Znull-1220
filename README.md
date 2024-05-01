@@ -25,6 +25,6 @@ You can reach me via:
 - Email: zhangjh1220@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=Znull-1220&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220)
 
 
