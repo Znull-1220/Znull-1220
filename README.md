@@ -58,4 +58,4 @@ Let's connect and collaborate on exciting projects!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
+![](https://github-readme-stats.vercel.app/api?username=Znull-1220&theme=radical)
