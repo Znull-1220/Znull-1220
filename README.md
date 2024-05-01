@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
+### Hi there! 👋
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Znull-1220)
-
-
-## 📫 How to reach me
 
 You can reach me via:
 
