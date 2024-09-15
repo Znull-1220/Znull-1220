@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Znull-1220)
 
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
-</p>
+<div align="center">![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
+
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220)-->
 
