@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Znull-1220)
 
-
-![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
+</div>
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220)-->
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=eZGwHrn48egDhSx-MFeR3W8TeWTT4-b3HIRwNsTd3xo"></script>
 
 
