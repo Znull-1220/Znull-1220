@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  ![Profile Views](https://komarev.com/ghpvc/?username=Znull-1220)
 
 ![](https://github-readme-stats.vercel.app/api?username=Znull-1220)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Znull-1220)-->
 
 
